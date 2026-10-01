@@ -1,3 +1,6 @@
+**Chat history (LLM used):** https://claude.ai/share/9465d328-6da0-4f85-a45f-ae4e67a98610
+
+
 # Lava Escape Repair Lab
 
 This project is a vertical platformer survival game using **Pygame**. It introduces students to jump physics, platform landing collision logic, vertical camera tracking, rising hazard mechanics, and procedural level generation within an object-oriented codebase
